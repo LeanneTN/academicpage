@@ -11,9 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## University of Manchester, UK ![Manchester](../images/manchester.png){: .align-right height="60px"}
+09/2024 - 01/2028(Expected)
+
+Division of Pharmacy and Optometry, Faculty of Biology, Medicine and Health
+
+Doctor of Philosophy, Fully funded by President's Doctoral Scholar Awards of The University of Manchester
+
+&emsp; Research Direction:
+
+&emsp;&emsp;Novel approaches for simulation-guided drug design using free energy calculations and machine learning
+
+## Central South University (985), China ![csu](../images/csu.png){: .align-right height="60px"}
+09/2020 - 06/2024
+
+School of Computer Science and Engineering
+
+Bachelor of Engineering, Majoring in Software Engineering
+
+Research Experience
+
+&emsp; Research Assistant of the laboratory of Prof. Li Kuang at CSU (2021/10~2024/6).
+
+&emsp; Research Direction:
+
+- NLP Code Completion & Large Language Models
+- Intelligent Traffic (Traffic flow prediction)
+- Bioinformatics
 
 Work experience
 ======

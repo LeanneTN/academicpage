@@ -55,4 +55,4 @@ Managing members in whole student union and distributing tasks and commands from
 Participating in the supervision and management of the college's councils and the executive committee of the college. Taking part in overseeing the various democratic votes and committee elections wintin the college.
 
 ### Outreach Activities in Impoverished Border Regions
-Joined voluntary team organized by the Yunnan Provincial Department of Cultural adn Tourism. Went to five border counties and conducted volunteer work in order to help those who suffered from the COVID-19 pandemic quarantine.
+Joined voluntary team organized by the Yunnan Provincial Department of Cultural and Tourism. Went to five border counties and conducted volunteer work in order to help those who suffered from the COVID-19 pandemic quarantine.

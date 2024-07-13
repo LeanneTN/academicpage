@@ -109,3 +109,10 @@ Team Leader, 06/2022 - 07/2022
 
 Developed a smart community management system in Java and Vue. Awarded as Outstanding
 Individual during the development.
+
+Skills
+===
+-	Possess extensive experience in Python programming and the utilization of various artificial intelligence frameworks (PyTorch, TensorFlow, Keras).
+- Proficient in utilizing high-performance computing platforms and servers to train models and run software.
+- Mastered several programming languages (C++, Java, etc.) in addition to Python and have participated in the software development of numerous projects. 
+- Using LaTeX and other academic paper templates frequently.

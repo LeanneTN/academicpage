@@ -13,7 +13,7 @@ Education
 ======
 ## University of Manchester, UK
 
-![Manchester](https://leannetn.github.io/academicpage/images/manchester.png){: .align-right height="30px"}
+![Manchester](https://leannetn.github.io/academicpage/images/manchester.png){: .align-right width="160px"}
 
 09/2024 - 01/2028(Expected)
 
@@ -27,7 +27,7 @@ Doctor of Philosophy, Fully funded by President's Doctoral Scholar Awards of The
 
 ## Central South University (985), China 
 
-![csu](https://leannetn.github.io/academicpage/images/csu.png){: .align-right height="30px"}
+![csu](https://leannetn.github.io/academicpage/images/csu.png){: .align-right width="160px"}
 
 09/2020 - 06/2024
 

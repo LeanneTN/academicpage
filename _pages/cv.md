@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-## University of Manchester, UK ![Manchester](https://leannetn.github.io/academicpage/images/manchester.png){: .align-right width="160px"}
+## [University of Manchester](https://www.manchester.ac.uk), UK ![Manchester](https://leannetn.github.io/academicpage/images/manchester.png){: .align-right width="160px"}
 
 09/2024 - 01/2028(Expected)
 
@@ -23,7 +23,7 @@ Doctor of Philosophy, Fully funded by President's Doctoral Scholar Awards of The
 
 &emsp;&emsp;Novel approaches for simulation-guided drug design using free energy calculations and machine learning
 
-## Central South University (985), China ![csu](https://leannetn.github.io/academicpage/images/csu.png){: .align-right width="160px"}
+## [Central South University](https://www.csu.edu.cn) (985), China ![csu](https://leannetn.github.io/academicpage/images/csu.png){: .align-right width="160px"}
 
 09/2020 - 06/2024
 
@@ -33,7 +33,7 @@ Bachelor of Engineering, Majoring in Software Engineering
 
 Research Experience
 
-&emsp; Research Assistant of the laboratory of Prof. Li Kuang at CSU (2021/10~2024/6).
+&emsp; Research Assistant of the laboratory of [Prof. Li Kuang](https://faculty.csu.edu.cn/kuangli/en/index/3343/list/index.htm) at CSU (2021/10~2024/6).
 
 &emsp; Research Direction:
 
@@ -63,7 +63,7 @@ Teaching
 Awards & Scholarships
 ===
 ## Academic Awards
-- President's Doctoral Scholar Award of The University of Manchester (3 in the Faculty of Biology, Medicine and Health)
+- [President's Doctoral Scholar Award](https://www.presidentsaward.manchester.ac.uk/) of The University of Manchester (3 in the Faculty of Biology, Medicine and Health)
 - 2024 Outstanding Graduate of the Central South University (20/197)
 - 2024 Distinguished Undergraudate Thesis of the Central South University (8/695)
 - 2023 Outstanding Paper Awards of the <i>Creative China</i> Innovation Annual Conference CSU station

@@ -32,13 +32,13 @@ Funded by Education Ministry of China, and I'm  the co-founder and co-leader of 
 ## 👨‍🔬 Research Experience
 
 ### Research Assistant at School of Computer Science and Engineering, CSU
-Supervised by Prof.Li Kuang, researching on
+Supervised by [Prof. Li Kuang](https://faculty.csu.edu.cn/kuangli/en/index/3343/list/index.htm), researching on
 - nature language models in the area of code completion;
 - graph neural networks and its application in the urban traffic flow prediction;
 - large language models and its application in the intelligent software construction.
 
 ## 🥇 Awards
-- President's Doctoral Scholar Award of The University of Manchester (3 in the Faculty of Biology, Medicine and Health)
+- [President's Doctoral Scholar Award](https://www.presidentsaward.manchester.ac.uk/) of The University of Manchester (3 in the Faculty of Biology, Medicine and Health)
 - 2024 Outstanding Graduate of the Central South University (20/197)
 - 2024 Distinguished Undergraudate Thesis of the Central South University (8/695)
 - Second Class Scholarship for the Academic Year 2022

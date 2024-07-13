@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2021-teaching
 venue: "School of Computer Science and Engineering, Central South University"
-date: 2021 Fall Sem & 2022 Spring Sem
+date: 2021-09-01
 location: "Changsha, China"
 ---
 

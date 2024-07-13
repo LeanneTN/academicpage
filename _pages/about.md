@@ -11,7 +11,7 @@ redirect_from:
 
 🔬 I'm researching on combining artificial intelligence with biology and drug design, especially currently powerful Large Language Models.
 
-🎓 I received my BEng degree at the Central South University, where I majored in software engineering in June 2024.
+🎓 I received my BEng degree at the Central South University in June 2024, where I majored in software engineering.
 
 📜 See my [CV](https://leannetn.github.io/academicpage/cv) for detailed information about my academic background. See the [Publications](https://leannetn.github.io/academicpage/publications) for detailed information of my authored or co-authored papers and download them.
 
@@ -21,12 +21,12 @@ redirect_from:
 
 ### CCF - Tencent Rhino-Bird Funded Project: LLM-based Intelligent Code Generating Technology
 
-![RhinoBird](/images/RhinoBrid.png){: .align-right width="200px"}
+![RhinoBird](https://leannetn.github.io/academicpage/images/RhinoBrid.png){: .align-right width="200px"}
 Funded by China Computer Federation (CCF) and Tencent AI Lab Rhino-Bird Project. This research proect aims to integrate current large language models into intelligent code generation tasks and push the technology towards application. To date, this project has yielded two publications and one more paper in review.
 
 ### National Level Innovation and Entrepreneurship Project
 
-![NeuralCat](/images/neuralcat.jpg){: .align-right width="200px"}
+![NeuralCat](https://leannetn.github.io/academicpage/images/neuralcat.jpg){: .align-right width="200px"}
 Funded by Education Ministry of China, and I'm  the co-founder and co-leader of this project. Kuramoto model-based Modelling and Application of Brain Structure and Functional Network. Aiming to build up the functional network (FC network) with a structural network (SC network) as the method to get an SC network is much easier than a FC network. This project is a joint application with Tianjin Normal University and Shanghai University of Financial and Economics. This project has closed with excellent project award and a feasible FC network prediction application.
 
 ## 👨‍🔬 Research Experience

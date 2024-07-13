@@ -14,6 +14,7 @@ Education
 ## University of Manchester, UK
 
 ![Manchester](https://leannetn.github.io/academicpage/images/manchester.png){: .align-right height="30px"}
+
 09/2024 - 01/2028(Expected)
 
 Division of Pharmacy and Optometry, Faculty of Biology, Medicine and Health
@@ -27,6 +28,7 @@ Doctor of Philosophy, Fully funded by President's Doctoral Scholar Awards of The
 ## Central South University (985), China 
 
 ![csu](https://leannetn.github.io/academicpage/images/csu.png){: .align-right height="30px"}
+
 09/2020 - 06/2024
 
 School of Computer Science and Engineering

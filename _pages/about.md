@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hi, I'm Tian!"
+title: "👋🏼 Hi, I'm Tian Liang!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,12 +21,12 @@ redirect_from:
 
 ### CCF - Tencent Rhino-Bird Funded Project: LLM-based Intelligent Code Generating Technology
 
-<img src='../images/RhinoBrid.png' align='right' style=' width:300px'/>
+![RhinoBird](/images/RhinoBrid.png){: .align-right width="200px"}
 Funded by China Computer Federation (CCF) and Tencent AI Lab Rhino-Bird Project. This research proect aims to integrate current large language models into intelligent code generation tasks and push the technology towards application. To date, this project has yielded two publications and one more paper in review.
 
 ### National Level Innovation and Entrepreneurship Project
 
-<img src='../images/neuralcat.jpg' align='right' style=' width:300px'/>
+![NeuralCat](/images/neuralcat.jpg){: .align-right width="200px"}
 Funded by Education Ministry of China, and I'm  the co-founder and co-leader of this project. Kuramoto model-based Modelling and Application of Brain Structure and Functional Network. Aiming to build up the functional network (FC network) with a structural network (SC network) as the method to get an SC network is much easier than a FC network. This project is a joint application with Tianjin Normal University and Shanghai University of Financial and Economics. This project has closed with excellent project award and a feasible FC network prediction application.
 
 ## 👨‍🔬 Research Experience
@@ -37,7 +37,7 @@ Supervised by Prof.Li Kuang, researching on
 - graph neural networks and its application in the urban traffic flow prediction;
 - large language models and its application in the intelligent software construction.
 
-## 🥇 Awards & Activities
+## 🥇 Awards
 - President's Doctoral Scholar Award of The University of Manchester (3 in the Faculty of Biology, Medicine and Health)
 - 2024 Outstanding Graduate of the Central South University (20/197)
 - 2024 Distinguished Undergraudate Thesis of the Central South University (8/695)
@@ -46,3 +46,13 @@ Supervised by Prof.Li Kuang, researching on
 - Second Class Scholarship for the Academic Year 2021
 - Outstanding Student for the Academic Year 2021
 - Software Patent on Online Traditional Building Culture Digital Museum
+
+## 🦾 Leadership Involvement & Voluntary Activities
+### Secretary, the Union's Office of School of Computer Science and Engineering Student Union, CSU
+Managing members in whole student union and distributing tasks and commands from school. Organizing activities like chorus festivals and graduation ceremonies in the faculty.
+
+### Student Representative, School of Computer Science and Engineering, CSU
+Participating in the supervision and management of the college's councils and the executive committee of the college. Taking part in overseeing the various democratic votes and committee elections wintin the college.
+
+### Outreach Activities in Impoverished Border Regions
+Joined voluntary team organized by the Yunnan Provincial Department of Cultural adn Tourism. Went to five border counties and conducted volunteer work in order to help those who suffered from the COVID-19 pandemic quarantine.

@@ -122,6 +122,7 @@ Developed a chatting room software based on C/S mode, which awarded as Excellent
 
 ## Coco-video
 Project Manager, 10/2020 - 06/2021
+
 A video portrait segment system based on MobileNet-V3, which can both be used in terminal and a graphical interface. The whole system is developed by C++ and Python. It won the Central China Region Third Prize of Service Outsourcing Innovation and Entrepreneurship Competition.
 
 Skills

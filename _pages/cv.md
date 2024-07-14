@@ -66,10 +66,10 @@ Awards & Scholarships
 - [President's Doctoral Scholar Award](https://www.presidentsaward.manchester.ac.uk/) of The University of Manchester (3 in the Faculty of Biology, Medicine and Health)
 - 2024 Outstanding Graduate of the Central South University (20/197)
 - 2024 Distinguished Undergraudate Thesis of the Central South University (8/695)
-- 2023 Outstanding Paper Awards of the <i>Creative China</i> Innovation Annual Conference CSU station
+- 2023 Outstanding Paper Award of the <i>Creative China</i> Innovation Annual Conference CSU station
 - Second Class Scholarship for the Academic Year 2022
 - Outstanding Student for the Academic Year 2022
-- 2022 Outstanding Paper Awards of the <i>Creative China</i> Innovation Annual Conference CSU station
+- 2022 Outstanding Paper Award of the <i>Creative China</i> Innovation Annual Conference CSU station
 - Second Class Scholarship for the Academic Year 2021
 - Outstanding Student for the Academic Year 2021
 
@@ -109,6 +109,20 @@ Team Leader, 06/2022 - 07/2022
 
 Developed a smart community management system in Java and Vue. Awarded as Outstanding
 Individual during the development.
+
+## MyStore ([front-end](https://github.com/LeanneTN/mystore-front-web) / [back-end](https://github.com/LeanneTN/mystore-api-dev))
+Individual Project, 07/2022 - 10/2023
+
+An online shopping website which has been developing for years. It has two verions, Javascript version and React version, in order to understand the development of front-end frameworks. It also uses techs which are used in modern Chinese software companies. It's a playground for me to learn how to develop a project out of the view of company. It also helps me to understand the development of techs better.
+
+## C/S Based Chatting Room, Wuhan Ruanko Software
+Team Member, 08/2021 - 09/2021
+
+Developed a chatting room software based on C/S mode, which awarded as Excellent Project during the internship practice.
+
+## Coco-video
+Project Manager, 10/2020 - 06/2021
+A video portrait segment system based on MobileNet-V3, which can both be used in terminal and a graphical interface. The whole system is developed by C++ and Python. It won the Central China Region Third Prize of Service Outsourcing Innovation and Entrepreneurship Competition.
 
 Skills
 ===

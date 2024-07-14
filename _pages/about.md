@@ -13,7 +13,7 @@ redirect_from:
 
 🎓 I received my BEng degree at the Central South University in June 2024, where I majored in software engineering.
 
-📜 See my [CV](https://leannetn.github.io/academicpage/cv) for detailed information about my academic background. See the [Publications](https://leannetn.github.io/academicpage/publications) for detailed information of my authored or co-authored papers and download them.
+📜 See my [CV](https://leannetn.github.io/academicpage/cv) for detailed information about my academic background. See [Publications](https://leannetn.github.io/academicpage/publications) for detailed information of my authored or co-authored papers and download them.
 
 # Selected Experience
 

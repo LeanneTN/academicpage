@@ -55,4 +55,7 @@ Managing members in whole student union and distributing tasks and commands from
 Participating in the supervision and management of the college's councils and the executive committee of the college. Taking part in overseeing the various democratic votes and committee elections wintin the college.
 
 ### Outreach Activities in Impoverished Border Regions
-Joined voluntary team organized by the Yunnan Provincial Department of Cultural and Tourism. Went to five border counties and conducted volunteer work in order to help those who suffered from the COVID-19 pandemic quarantine.
+Joined a voluntary team organized by the Yunnan Provincial Department of Culture and Tourism. Went to five border counties and conducted volunteer work in order to help those who suffered from the COVID-19 pandemic quarantine.
+
+### Community Teaching Service 2024
+Teaching volunteer for the community in the Summer of 2024, aiming to teach and prepare middle school students with their English and science discipline. 

@@ -23,7 +23,7 @@ Doctor of Philosophy, Fully funded by President's Doctoral Scholar Awards of The
 
 &emsp;&emsp;Novel approaches for simulation-guided drug design using free energy calculations and machine learning
 
-## [Central South University](https://www.csu.edu.cn) (985), China ![csu](https://leannetn.github.io/academicpage/images/csu.png){: .align-right width="160px"}
+## [Central South University](https://www.csu.edu.cn), China ![csu](https://leannetn.github.io/academicpage/images/csu.png){: .align-right width="160px"}
 
 09/2020 - 06/2024
 

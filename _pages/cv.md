@@ -16,7 +16,9 @@ Education
 09/2024 - 01/2028(Expected)
 
 Division of Pharmacy and Optometry, Faculty of Biology, Medicine and Health
+
 Department of Computer Science, Faculty of Science and Engineering
+
 Centre for Computational Imaging & Modelling in Medicine (CIMiM)
 
 Doctor of Philosophy, Fully funded by President's Doctoral Scholar Awards of The University of Manchester
@@ -25,8 +27,10 @@ Supervisors: Prof. Richard Bryce (pharmacy), Prof. FREng. Alejandro Frangi (comp
 
 &emsp; Research Direction:
 
-&emsp;&emsp;Novel approaches for simulation-guided drug design using free energy calculations and machine learning
-&emsp;&emsp;Molecular Representation Learning
+&emsp;&emsp;Novel approaches for simulation-guided drug design using free energy calculations and machine learning;
+
+&emsp;&emsp;Molecular representation learning;
+
 &emsp;&emsp;Agentic system and large language models for drug discovery
 
 ## [Central South University](https://www.csu.edu.cn), China ![csu](https://leannetn.github.io/academicpage/images/csu.png){: .align-right width="160px"}

@@ -16,12 +16,18 @@ Education
 09/2024 - 01/2028(Expected)
 
 Division of Pharmacy and Optometry, Faculty of Biology, Medicine and Health
+Department of Computer Science, Faculty of Science and Engineering
+Centre for Computational Imaging & Modelling in Medicine (CIMiM)
 
 Doctor of Philosophy, Fully funded by President's Doctoral Scholar Awards of The University of Manchester
+
+Supervisors: Prof. Richard Bryce (pharmacy), Prof. FREng. Alejandro Frangi (computer science), Dr. Neil Burton (chemistry)
 
 &emsp; Research Direction:
 
 &emsp;&emsp;Novel approaches for simulation-guided drug design using free energy calculations and machine learning
+&emsp;&emsp;Molecular Representation Learning
+&emsp;&emsp;Agentic system and large language models for drug discovery
 
 ## [Central South University](https://www.csu.edu.cn), China ![csu](https://leannetn.github.io/academicpage/images/csu.png){: .align-right width="160px"}
 
@@ -74,10 +80,33 @@ Awards & Scholarships
 - Outstanding Student for the Academic Year 2021
 
 ## Other Awards
-- 3rd Prize of “Internet plus” Innovation and Entrepreneurship Competition
+- 3rd Prize of "Internet plus" Innovation and Entrepreneurship Competition
 - Excellent Individual Awarded by the Wuhan Ruanko Software Company
 - Central China region 3rd Prize of Service Outsourcing Innovation and Entrepreneurship Competition
 - Excellent Project Awarded by the Wuhan Ruanko Software Company
+
+
+Employment & Internship Experience
+===
+## Department of Computer Science, UoM, UK
+Graduate Teaching Assistant, Contract, 09/2025 - Now
+
+Part-time teaching assistant at the Department of Computer Science, Faculty of Science and Engineering, University of Manchester.
+
+## BioHarvest Beijing, China
+Computer Vision Algorithm Engineer, Internship, 08/2025 - 08/2026
+
+Remote internship at the BioHarvest Beijing as a computer vision algorithm engineer. Collaborated with the Shandong Academy of Agricultural Sciences and Wageningen University in the Netherlands to conduct research related to biological agricultural pest control. Responsible for the development of computer vision algorithms to achieve pest control in the field, including automatic detection and alarm for natural enemies of bumblebees.
+
+## Outlier, USA
+AI Training Specialist, Part-time, 04/2025 - 06/2026
+
+Undertake independently assigned outsourcing tasks provided by the company in exchange for remuneration. These tasks involve the creation of prompts which have ground truth solutions and requiring domain-specific expertise, with the objective of eliciting incorrect responses from LLMs. The resulting data will be utilized by the frontier AI Labs to enhance training for expert-level knowledge domains, and constructing the dataset HLE (Human’s Last Exam).
+
+## Wuhan Ruanko Software Company, China
+Team Leader, Internship, 06/2022 - 07/2022
+
+Developed a smart community management system in Java (for the back-end) and Vue (for the front-end) as an internship project. Led a team of seven members to complete the development within one month and open-sourced part of the project code on GitHub. Due to the outstanding leadership and project results, I was awarded the title of "Outstanding Individual" upon completion.
 
 
 Research Projects
